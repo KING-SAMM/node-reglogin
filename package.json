@@ -1,0 +1,19 @@
+{
+  "name": "node-reglogin",
+  "version": "1.0.0",
+  "description": "Registration and login system with node and express and user authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KC Samm",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "hbs": "^4.2.0"
+  }
+}
